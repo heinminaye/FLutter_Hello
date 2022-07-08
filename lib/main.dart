@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget {
         body: Center(
           child: Card(
             color: Colors.lightBlue,
-            elevation: 5,
+            elevation: 3,
             child: SizedBox(
               width: 320,
               height: 420,
