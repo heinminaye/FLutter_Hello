@@ -76,9 +76,9 @@ flutter:
         - asset: fonts/EduSABeginner-VariableFont_wght.ttf
     #       - asset: fonts/Schyler-Italic.ttf
     #         style: italic
-    - family: Lobster
-      fonts:
-        - asset: fonts/Lobster-Regular.ttf
+    # - family: Lobster
+    #   fonts:
+    #     - asset: fonts/Lobster-Regular.ttf
   #       - asset: fonts/TrajanPro_Bold.ttf
   #         weight: 700
   #
